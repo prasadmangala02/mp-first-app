@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
 	export let name;
 </script>
 
@@ -27,4 +27,4 @@
 			max-width: none;
 		}
 	}
-</style>
+</style> -->
