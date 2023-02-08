@@ -27,4 +27,4 @@ import ProgressBar from './ProgressBar.svelte';
 </style>
 
 
-<button class="start" style="background-color: rgb(154,73,73);width: 100% ;margin: 10px 0">Start</button>
+<button class="start" >Start</button>

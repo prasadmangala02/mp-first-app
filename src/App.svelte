@@ -6,18 +6,19 @@
 <style>
 	h1,h3{
 		text-align: center;
-		background-color: red;
-	}
+		background-color: white;
+}
 </style>
 
-<h1 style="text-align: center;">Handwashing App</h1>
+<h1>Handwashing App</h1>
 
 <Timer />
 
 
 <HowTo />
 
-<h3 style="text-align: center;">
+
+<h3 >
 	<a href="https://www.who.int/teams/integrated-health-services/infection-prevention-control">
 		Picture Source
 
